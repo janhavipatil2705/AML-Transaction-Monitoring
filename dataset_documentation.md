@@ -29,3 +29,19 @@
 * Findings may depend on the assumptions used to generate the synthetic data; results should not automatically be generalised to real banks.
 * The dataset is distributed under the Community Data License Agreement — Sharing, Version 1.0 (CDLA-Sharing-1.0), according to IBM's repository. Check the terms that apply to your downloaded copy before redistributing data.
 
+## 4. Data dictionary
+| Left aligned | Center aligned | Right aligned |
+|:-------------|:--------------:|--------------:|
+| SQL | Python | Power BI |
+| Excel | Tableau | Statistics |
+
+
+
+
+
+
+
+
+
+
+
