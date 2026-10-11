@@ -1,4 +1,4 @@
-<img width="149" height="25" alt="image" src="https://github.com/user-attachments/assets/11bee0f7-f165-48fd-9c5d-6681b4baca28" /># Dataset Documentation
+# Dataset Documentation
 
 ## 1. Dataset Overview
 
