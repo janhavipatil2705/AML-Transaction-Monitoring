@@ -1,4 +1,4 @@
-# Dataset Documentation
+<img width="149" height="25" alt="image" src="https://github.com/user-attachments/assets/11bee0f7-f165-48fd-9c5d-6681b4baca28" /># Dataset Documentation
 
 ## 1. Dataset Overview
 
@@ -30,17 +30,19 @@
 * The dataset is distributed under the Community Data License Agreement — Sharing, Version 1.0 (CDLA-Sharing-1.0), according to IBM's repository. Check the terms that apply to your downloaded copy before redistributing data.
 
 ## 4. Data dictionary
-| Left aligned | Center aligned | Right aligned |
-|:-------------|:--------------:|--------------:|
-| SQL | Python | Power BI |
-| Excel | Tableau | Statistics |
-
-
-
-
-
-
-
+| Column Name | Meaning | Data Type |
+|:---|:---|:---|
+| Timestamp | Date and time when the transaction occurred. | Datetime |
+| From Bank | Identifier of the bank sending the money. | Numeric |
+| Account | Unique identifier of the account involved in the transaction. | Alphanumeric |
+| To Bank | Identifier of the bank receiving the money. | Numeric |
+| Account | Unique identifier of the receiving account. | Alphanumeric |
+| Amount Received | Amount of money received by the destination account. | Float |
+| Receiving Currency | Currency in which the money was received. | Text |
+| Amount Paid | Amount of money paid by the sending account. | Float |
+| Payment Currency | Currency in which the payment was made. | Text |
+| Payment Format | Method or format used to make the payment, such as cheque or reinvestment. | Text |
+| Is Laundering | Indicates whether the transaction was labelled as money laundering (1 = Yes, 0 = No). | Boolean / Binary |
 
 
 
