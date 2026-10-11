@@ -50,4 +50,11 @@
 * Null values: 0
 * Duplicate values: 2
 
+## Dataset Size and Scope
+
+* **Original dataset size:** 5,078,345 transactions, as reported on the Kaggle dataset page.
+* **Rows in the local dataset:** 1,048,575, as verified using Python and Microsoft Excel.
+* **Note:** The row count of the local file differs from the total reported on Kaggle. The reason for this discrepancy has not yet been verified.
+
+All data-quality checks and analyses in this project are based on the local dataset unless otherwise stated.
 
