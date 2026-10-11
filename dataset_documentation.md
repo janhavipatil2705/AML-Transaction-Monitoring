@@ -44,6 +44,10 @@
 | Payment Format | Method or format used to make the payment, such as cheque or reinvestment. | Text |
 | Is Laundering | Indicates whether the transaction was labelled as money laundering (1 = Yes, 0 = No). | Boolean / Binary |
 
-
+## 5. Initial data-quality report
+* Total records/rows: 1048575
+* Total columns: 11
+* Null values: 0
+* Duplicate values: 2
 
 
