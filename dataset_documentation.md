@@ -45,10 +45,15 @@
 | Is Laundering | Indicates whether the transaction was labelled as money laundering (1 = Yes, 0 = No). | Boolean / Binary |
 
 ## 5. Initial data-quality report
-* Total records/rows: 1048575
+* Total records/rows: 10,48,575
 * Total columns: 11
 * Null values: 0
 * Duplicate values: 2
+* Labelled as laundering: 615
+* Labelled as non-laundering: 10,47,960
+* Laundering-label share: 0.0586%
+
+**Approximately 1 in every 1,705 transactions is labelled as laundering.**
 
 ## Dataset Size and Scope
 
